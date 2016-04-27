@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iuliifirmicimat00mategoog_0008.png"; bbox 0 0 2408 3840; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 143 1390 1012 1507">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 143 1390 1012 1507">
+     <span class='ocr_line' id='line_1_1' title="bbox 143 1390 1012 1507; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 143 1392 595 1506; x_wconf 84' lang='lat' dir='ltr'><strong>MAXIMILIANO</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 634 1390 1012 1507; x_wconf 78' lang='lat' dir='ltr'>CONSBRUOH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 361 1711 796 1781">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 361 1711 796 1781">
+     <span class='ocr_line' id='line_1_2' title="bbox 361 1711 796 1781; baseline 0.011 -5"><span class='ocrx_word' id='word_1_3' title='bbox 361 1711 520 1777; x_wconf 80' lang='lat' dir='ltr'><strong>SODALI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 542 1713 796 1781; x_wconf 77' lang='lat' dir='ltr'>AMIOISSIMO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 292 1983 871 2041">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 292 1983 871 2041">
+     <span class='ocr_line' id='line_1_3' title="bbox 292 1983 871 2041; baseline 0.009 -5"><span class='ocrx_word' id='word_1_5' title='bbox 292 1983 353 2037; x_wconf 77' lang='lat' dir='ltr'>DIE</span> <span class='ocrx_word' id='word_1_6' title='bbox 372 1984 430 2039; x_wconf 87' lang='lat' dir='ltr'>XX.</span> <span class='ocrx_word' id='word_1_7' title='bbox 450 1984 487 2039; x_wconf 88' lang='lat' dir='ltr'>M.</span> <span class='ocrx_word' id='word_1_8' title='bbox 506 1983 578 2038; x_wconf 90' lang='lat' dir='ltr'>IUN.</span> <span class='ocrx_word' id='word_1_9' title='bbox 598 1984 630 2041; x_wconf 89' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_10' title='bbox 650 1984 871 2041; x_wconf 80' lang='lat' dir='ltr'>MDCOCXCVII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1208 3840">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1208 3840">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1208 3840; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1208 3840; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
